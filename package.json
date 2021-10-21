@@ -1,0 +1,19 @@
+{
+  "name": "personal-budget",
+  "version": "1.0.0",
+  "description": "API that allows clients to create and manage a personal budget",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "jjarey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
